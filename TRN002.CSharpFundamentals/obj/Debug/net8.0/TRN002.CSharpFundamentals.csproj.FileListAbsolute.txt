@@ -1,0 +1,15 @@
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\TRN002.CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\TRN002.CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\TRN002.CSharpFundamentals.AssemblyInfo.cs
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\TRN002.CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\TRN002.CSharpFundamentals.sourcelink.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\bin\Debug\net8.0\TRN002.CSharpFundamentals.exe
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\bin\Debug\net8.0\TRN002.CSharpFundamentals.deps.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\bin\Debug\net8.0\TRN002.CSharpFundamentals.runtimeconfig.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\bin\Debug\net8.0\TRN002.CSharpFundamentals.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\bin\Debug\net8.0\TRN002.CSharpFundamentals.pdb
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\TRN002.CSharpFundamentals.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\refint\TRN002.CSharpFundamentals.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\TRN002.CSharpFundamentals.pdb
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\TRN002.CSharpFundamentals.genruntimeconfig.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN002.CSharpFundamentals\obj\Debug\net8.0\ref\TRN002.CSharpFundamentals.dll
