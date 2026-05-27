@@ -1,0 +1,15 @@
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\bin\Debug\net8.0\TRN003.DIP.exe
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\bin\Debug\net8.0\TRN003.DIP.deps.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\bin\Debug\net8.0\TRN003.DIP.runtimeconfig.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\bin\Debug\net8.0\TRN003.DIP.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\bin\Debug\net8.0\TRN003.DIP.pdb
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\TRN003.DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\TRN003.DIP.AssemblyInfoInputs.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\TRN003.DIP.AssemblyInfo.cs
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\TRN003.DIP.csproj.CoreCompileInputs.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\TRN003.DIP.sourcelink.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\TRN003.DIP.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\refint\TRN003.DIP.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\TRN003.DIP.pdb
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\TRN003.DIP.genruntimeconfig.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.DIP\obj\Debug\net8.0\ref\TRN003.DIP.dll
