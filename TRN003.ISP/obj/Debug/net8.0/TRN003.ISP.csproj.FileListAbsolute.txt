@@ -1,0 +1,15 @@
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\bin\Debug\net8.0\TRN003.ISP.exe
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\bin\Debug\net8.0\TRN003.ISP.deps.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\bin\Debug\net8.0\TRN003.ISP.runtimeconfig.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\bin\Debug\net8.0\TRN003.ISP.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\bin\Debug\net8.0\TRN003.ISP.pdb
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\TRN003.ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\TRN003.ISP.AssemblyInfoInputs.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\TRN003.ISP.AssemblyInfo.cs
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\TRN003.ISP.csproj.CoreCompileInputs.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\TRN003.ISP.sourcelink.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\TRN003.ISP.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\refint\TRN003.ISP.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\TRN003.ISP.pdb
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\TRN003.ISP.genruntimeconfig.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.ISP\obj\Debug\net8.0\ref\TRN003.ISP.dll
