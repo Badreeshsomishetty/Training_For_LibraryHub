@@ -1,0 +1,15 @@
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\TRN003.SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\TRN003.SRP.AssemblyInfoInputs.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\TRN003.SRP.AssemblyInfo.cs
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\TRN003.SRP.csproj.CoreCompileInputs.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\TRN003.SRP.sourcelink.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\bin\Debug\net8.0\TRN003.SRP.exe
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\bin\Debug\net8.0\TRN003.SRP.deps.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\bin\Debug\net8.0\TRN003.SRP.runtimeconfig.json
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\bin\Debug\net8.0\TRN003.SRP.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\bin\Debug\net8.0\TRN003.SRP.pdb
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\TRN003.SRP.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\refint\TRN003.SRP.dll
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\TRN003.SRP.pdb
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\TRN003.SRP.genruntimeconfig.cache
+C:\Users\Badreesh\source\repos\LibraryHub.Training\exercises\TRN003.SRP\obj\Debug\net8.0\ref\TRN003.SRP.dll
